@@ -1,13 +1,11 @@
-## Hey there! || こんにちは！ || Hola!　|| Hallo! 🙋🏻‍♀️
+## Hey there! こんにちは！ Hola! Hallo! 🙋🏻‍♀️
 
 - 🌱 I’m currently studying Web Application Development 👩🏻‍💻
 - 🔭 I’m working on learning more about this world and expanding the horizon 🌅
 - 📍 Based in Madrid 🐻
 - 🌎 Whenever I have time, I try to learn new languages, to not get stuck with just Spanish/English. I've been studying Japanese and German 🙆🏻‍♀️
 - 🎠 Other hobbies? Horse riding, I love horses! 🏇🏻. I also do fitboxing 🥊. Lately I've been also painting figures we print on the 3D printer. Monster Hunter figures, to be precise, hehe, so there's another thing I like very much 🐉⚔️
-- 📫 How to reach me: 
-Find me over [my LinkedIn profile](https://github.blog/](https://www.linkedin.com/in/angiemiv/) or on [my Instagram Profile](https://www.instagram.com/angiemiv/).
-You can also [Email Me](mailto:angieibarrola%40gmail.com?subject=From%20Github) 📨
+- 📫 How to reach me: You can [Email Me](mailto:angieibarrola%40gmail.com?subject=From%20Github) 📨 or find me over [my LinkedIn profile](https://www.linkedin.com/in/angiemiv/) or on [my Instagram Profile](https://www.instagram.com/angiemiv/) 🌙
 
 <!--
 **AngieMiv/AngieMiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
