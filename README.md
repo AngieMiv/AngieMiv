@@ -45,6 +45,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=angiemiv&theme=dracula" alt="GitHub Trophies" />
+</p>
+<p align="center">
   <table align="center">
     <tr>
       <td>
