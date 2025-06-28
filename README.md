@@ -4,11 +4,15 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/📍_Madrid--based-800080?style=flat" />
+  &nbsp;
   <img src="https://img.shields.io/badge/💻_Web_App_Dev_Student-4169E1?style=flat" />
+  &nbsp;
   <img src="https://img.shields.io/badge/🌍_Multilingual_Learner-20B2AA?style=flat" />
+  &nbsp;
   <img src="https://img.shields.io/badge/🎨_Digital_&_Miniature_Artist-FF69B4?style=flat" />
   <br />
   <img src="https://img.shields.io/badge/🇺🇸_English_|_🇪🇸_Spanish-FFA500?style=flat" />
+  &nbsp;
   <img src="https://img.shields.io/badge/🇯🇵_Japanese_|_🇩🇪_German-F4A460?style=flat" />
 </p>
 
@@ -53,7 +57,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🌟 GitHub Activity & Highlights
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=angiemiv&theme=dracula" alt="GitHub Trophies" />
