@@ -60,7 +60,7 @@
 ### 🌟 GitHub Activity & Highlights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=angiemiv&theme=dracula" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=angiemiv&theme=dracula&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 <p align="center">
   <table align="center">
